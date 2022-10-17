@@ -1,1 +1,1 @@
-# corner_based_aligner
+# Corner Detection Based Aligner
