@@ -1,5 +1,7 @@
 # Corner-Based Face Aligner
 
+![corner-based face alignment workflow](docs/workflow.svg)
+
 A computer-vision project built around a YOLOv5-style face detector with four predicted corner landmarks. The detection script uses the landmark coordinates to locate a quadrilateral on the face and includes a perspective-transform helper for rectifying it.
 
 > The repository name is `corener-based-aligner`; the project description uses the corrected spelling “corner-based.”
